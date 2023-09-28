@@ -1,0 +1,10 @@
+C:\Users\marsy\Source\Repos\opakovani2\opakovani2\bin\Debug\opakovani2.exe.config
+C:\Users\marsy\Source\Repos\opakovani2\opakovani2\bin\Debug\opakovani2.exe
+C:\Users\marsy\Source\Repos\opakovani2\opakovani2\bin\Debug\opakovani2.pdb
+C:\Users\marsy\Source\Repos\opakovani2\opakovani2\obj\Debug\opakovani2.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\opakovani2\opakovani2\obj\Debug\opakovani2.Form1.resources
+C:\Users\marsy\Source\Repos\opakovani2\opakovani2\obj\Debug\opakovani2.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\opakovani2\opakovani2\obj\Debug\opakovani2.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\opakovani2\opakovani2\obj\Debug\opakovani2.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\opakovani2\opakovani2\obj\Debug\opakovani2.exe
+C:\Users\marsy\Source\Repos\opakovani2\opakovani2\obj\Debug\opakovani2.pdb
